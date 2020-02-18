@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/dynamic_list.h
+types.h
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/types.h
+
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/list/list.h
+stdbool.h
+-
+../types.h
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/types.h
+
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/static_list.h
+types.h
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/types.h
+
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/test.c
+stdio.h
+-
+string.h
+-
+static_list.h
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/static_list.h
+dynamic_list.h
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/dynamic_list.h
+list/list.h
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/list/list.h
+
+/home/aperpen/Documents/Pro2/Practicas/P1/Codigo/types.h
+
